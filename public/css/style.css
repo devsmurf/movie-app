@@ -18,7 +18,7 @@ body {
       rgba(255, 77, 77, 0.1),
       rgba(255, 51, 51, 0.1)
     ),
-    url("../img/bgs.jpeg");
+    url("../../src/img/bgs.jpeg");
   height: 80vh;
   width: 100%;
   background-position: center;
@@ -156,7 +156,7 @@ body {
       rgba(255, 77, 77, 0.1),
       rgba(255, 51, 51, 0.1)
     ),
-    url("../img/features.jpeg");
+    url("../../src/img/features.jpeg");
   background-position: top center;
   background-size: cover;
 }
